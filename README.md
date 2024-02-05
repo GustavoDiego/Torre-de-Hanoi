@@ -16,7 +16,7 @@ Funcionamento do Programa
 
 Funções Principais
 
-•	_atoi: Converte uma string para um número inteiro.
+•	str_to_int: Converte uma string para um número inteiro.
 
 •	erro: Exibe uma mensagem de erro caso a conversão da entrada do usuário para inteiro falhe.
 
